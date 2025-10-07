@@ -4,7 +4,7 @@ public class TwoDArrayExample2 {
 
     public static void main(String[] args) {
         char[][] answer= {
-            {'A','B','A','C','D','E'},
+            {'D','G','C','C','D','E'},
             {'D','A','G','D','E','B'},
             {'H','G','A','C','D','B'}
     };
