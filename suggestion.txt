@@ -1,0 +1,15 @@
+Uses of super keyword
+Method overriding
+abstract class
+uses of final keyword
+
+INtroduction of OOP
+class, object, method, 
+three principles of oop 
+Java source code VS JRE
+
+Language basics
+Data types
+if, else
+for, while, do loop
+Arrays (single, multiple)
