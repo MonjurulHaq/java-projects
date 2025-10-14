@@ -1,4 +1,4 @@
-Uses of super keyword
+Uses of super keyword > to call supercall variable, method to call superclass constructor
 Method overriding
 abstract class
 uses of final keyword
@@ -13,3 +13,15 @@ Data types
 if, else
 for, while, do loop
 Arrays (single, multiple)
+
+
+class A{
+    int a;
+}
+class B extends A{
+    int a;
+    public void printofsuparclass(){
+        super.a;
+        a= 10;
+    }
+}
