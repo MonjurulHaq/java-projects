@@ -25,3 +25,6 @@ class B extends A{
         a= 10;
     }
 }
+
+Array vs array List
+Normal for loop vs enhanced for loop
